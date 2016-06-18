@@ -1,0 +1,6 @@
+{
+  "name": "GlutenBot",
+  "description": "Facebook Messenger for searching gluten-free restaurants",
+  "repository": "https://github.com/pageonline/glutenbot",
+  "keywords": ["gluten", "restaurants", "messenger"]
+}
